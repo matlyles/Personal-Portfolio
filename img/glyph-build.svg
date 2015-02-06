@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="104px" height="83px"
+	 viewBox="0 0 104 83" enable-background="new 0 0 104 83" xml:space="preserve">
+<title>Artboard 4</title>
+<desc>Created with Sketch.</desc>
+<g id="Page-1" sketch:type="MSPage">
+	<g id="Artboard-4" sketch:type="MSArtboardGroup">
+		
+			<linearGradient id="Fill-1_1_" gradientUnits="userSpaceOnUse" x1="-229.1548" y1="236.1738" x2="-228.1548" y2="236.7871" gradientTransform="matrix(101.8 0 0 -52.5454 23326 12467.9912)">
+			<stop  offset="0" style="stop-color:#4FCCE2"/>
+			<stop  offset="1" style="stop-color:#E9ECC3"/>
+		</linearGradient>
+		<path id="Fill-1" sketch:type="MSShapeGroup" fill="url(#Fill-1_1_)" d="M32.995,66.275L1,41.731l32.44-25.72l1.443,1.804
+			L4.757,41.702L34.41,64.448L32.995,66.275z M70.361,66.264l-1.443-1.805l30.126-23.885L69.393,17.827L70.807,16L102.8,40.543
+			L70.361,66.264z M46.831,68.545l-2.167-0.812l19.289-50.978l2.168,0.813L46.831,68.545z"/>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="102px" height="53px" viewBox="0 0 102 53" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2 (9961) - http://www.bohemiancoding.com/sketch -->
+    <title>Slice 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="89.1346154%" y1="83.2602163%" x2="15.219351%" y2="14.7235577%" id="linearGradient-1">
+            <stop stop-color="#185A9D" offset="0%"></stop>
+            <stop stop-color="#43CEA2" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="glyph-build" sketch:type="MSLayerGroup" fill="url(#linearGradient-1)">
+            <g id="Page-1" sketch:type="MSShapeGroup">
+                <g id="Artboard-4">
+                    <path d="M31.995,50.275 L0,25.731 L32.44,0.011 L33.883,1.815 L3.757,25.702 L33.41,48.448 L31.995,50.275 L31.995,50.275 Z M69.361,50.264 L67.918,48.459 L98.044,24.574 L68.393,1.827 L69.807,0 L101.8,24.543 L69.361,50.264 L69.361,50.264 Z M45.831,52.545 L43.664,51.733 L62.953,0.755 L65.121,1.568 L45.831,52.545 L45.831,52.545 Z" id="Fill-1"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

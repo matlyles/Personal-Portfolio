@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="559px" height="519px" viewBox="0 0 559 519" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.1 (9977) - http://www.bohemiancoding.com/sketch -->
+    <title>v</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="v" sketch:type="MSArtboardGroup">
+            <g id="Oval-1-+-Oval-3-+-Oval-2-+-Group-2" sketch:type="MSLayerGroup" transform="translate(-194.000000, -139.000000)">
+                <g id="Group" transform="translate(443.000000, 397.000000)" fill="#9012FE" sketch:type="MSShapeGroup">
+                    <path d="M60.0788588,56.3319523 C60.0718488,55.877257 60.0267381,55.3999948 59.9415778,54.8993075 C56.5343458,34.8669976 32.8530055,3.33397879 32.8530055,3.33397879 C31.5570759,1.53319889 30.4981282,0.0913085835 30.4981282,0.0913085835 L28.8615664,1.36563614 C16.4482156,12.9567051 0.356182939,52.7325405 0.356182939,52.7325405 C0.11894705,53.296221 0.0259922397,53.8660084 0.0603344471,54.4075775 C9.89507939,56.9848593 32.8997044,61.4744073 60.0788588,56.3319523 Z" id="Triangle-1"></path>
+                </g>
+                <g id="Oval-1-+-Oval-3-+-Oval-2" transform="translate(445.473633, 450.250000) rotate(-300.000000) translate(-445.473633, -450.250000) translate(111.973633, 128.750000)" stroke="#979797" sketch:type="MSShapeGroup">
+                    <circle id="Oval-1" transform="translate(218.500000, 218.500000) rotate(143.000000) translate(-218.500000, -218.500000) " cx="218.5" cy="218.5" r="155.5"></circle>
+                    <circle id="Oval-3" transform="translate(329.500000, 424.500000) rotate(143.000000) translate(-329.500000, -424.500000) " cx="329.5" cy="424.5" r="155.5"></circle>
+                    <circle id="Oval-2" transform="translate(448.500000, 218.500000) rotate(143.000000) translate(-448.500000, -218.500000) " cx="448.5" cy="218.5" r="155.5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

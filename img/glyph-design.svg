@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="84px" height="85px"
+	 viewBox="0 0 84 85" enable-background="new 0 0 84 85" xml:space="preserve">
+<title>Artboard 3</title>
+<desc>Created with Sketch.</desc>
+<g id="Page-1" sketch:type="MSPage">
+	<g id="Artboard-3" sketch:type="MSArtboardGroup">
+		
+			<linearGradient id="Triangle-1_1_" gradientUnits="userSpaceOnUse" x1="-238.2861" y1="238.8604" x2="-237.2869" y2="239.4731" gradientTransform="matrix(82.1831 0 0 -76.6 19576.8945 18355.1738)">
+			<stop  offset="0" style="stop-color:#4FCCE2"/>
+			<stop  offset="1" style="stop-color:#E9ECC3"/>
+		</linearGradient>
+		<path id="Triangle-1" sketch:type="MSShapeGroup" fill="url(#Triangle-1_1_)" d="M23.584,14.79l-6.093,3.518l17.189,9.654
+			l0.234-19.713l-5.721,3.303l-4.137-7.166l-5.609,3.239L23.584,14.79L23.584,14.79z M74.389,40.424
+			c-1.745,0-3.203,1.396-3.682,2.701H51.211c9.467-1.306,26.778-7.095,31.973-26.75l-2.488-0.63
+			c-2.808,10.627-9.641,18.173-20.308,22.384c-5.259,2.075-10.208,2.803-13.037,3.051v-4.583H30.613v6.528H8.543
+			c-0.479-1.306-1.937-2.701-3.681-2.701C2.729,40.424,1,42.223,1,44.386c0,2.162,1.729,3.849,3.862,3.849
+			c1.615,0,2.994-1.193,3.572-2.498h19.89c-8.253,3.916-25.757,13.477-25.757,35.25h2.575c0-11.002,4.68-20.062,13.91-26.929
+			c4.408-3.28,8.86-5.253,11.561-6.269v5.78h16.738v-7.833h23.466c0.578,1.305,1.957,2.521,3.572,2.521
+			c2.133,0,3.861-1.753,3.861-3.917C78.25,42.177,76.521,40.424,74.389,40.424z M33.188,39.208h11.587v11.75H33.188V39.208z"/>
+	</g>
+</g>
+</svg>

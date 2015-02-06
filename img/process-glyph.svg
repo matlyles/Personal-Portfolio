@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="168px" height="103px" viewBox="0 0 168 103" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.1 (9977) - http://www.bohemiancoding.com/sketch -->
+    <title>v</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="91.3803126%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#2BC0E4" offset="0%"></stop>
+            <stop stop-color="#EAECC6" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="v" sketch:type="MSArtboardGroup" stroke="url(#linearGradient-1)" stroke-width="2" stroke-linecap="round">
+            <path d="M122.537754,23.7593846 C141.451415,23.7593846 156.783908,39.1907692 156.783908,58.2209231 C156.783908,77.2510769 141.451415,92.6824615 122.537754,92.6824615 M44.2461538,92.6824615 C25.3300462,92.6824615 10,77.2510769 10,58.2209231 C10,39.1907692 25.3300462,23.7593846 44.2461538,23.7593846 M44.2461538,92.6824615 C83.3846154,92.6824615 83.4090769,23.7593846 122.537754,23.7593846 M95.9113692,77.9181538 C102.694554,86.5064615 110.879385,92.6233846 122.537754,92.6233846 M44.2461538,23.7003077 C55.9607846,23.7003077 63.8153846,30.7993846 70.5080615,37.9476923 M63.8007077,9 L72.6533385,38.1249231 L44.2461538,43.4615385" id="Imported-Layers" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
