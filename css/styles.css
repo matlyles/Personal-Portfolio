@@ -95,14 +95,30 @@ a {
 .splash .overlay {
 	position: absolute;
 	top:0; bottom: 0; left: 0; right: 0;
-
+        
+}
+.splash .overlay.gradient-1 {
   background: -webkit-linear-gradient(90deg, rgba(192,108,134,0.8) 10%, rgba(93,179,207,0.8) 90%); 
   background:    -moz-linear-gradient(90deg, rgba(192,108,134,0.8) 10%, rgba(93,179,207,0.8) 90%); 
   background:     -ms-linear-gradient(90deg, rgba(192,108,134,0.8) 10%, rgba(93,179,207,0.8) 90%);
   background:      -o-linear-gradient(90deg, rgba(192,108,134,0.8) 10%, rgba(93,179,207,0.8) 90%); 
   background:         linear-gradient(90deg, rgba(192,108,134,0.8) 10%, rgba(93,179,207,0.8) 90%);
-        
 }
+.splash .overlay.gradient-2 {
+  background: -webkit-linear-gradient(90deg, rgba(59,79,193,0.8) 10%, rgba(38,208,206,0.8) 90%); 
+  background:    -moz-linear-gradient(90deg, rgba(59,79,193,0.8) 10%, rgba(38,208,206,0.8) 90%); 
+  background:     -ms-linear-gradient(90deg, rgba(59,79,193,0.8) 10%, rgba(38,208,206,0.8) 90%);
+  background:      -o-linear-gradient(90deg, rgba(59,79,193,0.8) 10%, rgba(38,208,206,0.8) 90%); 
+  background:         linear-gradient(90deg, rgba(59,79,193,0.8) 10%, rgba(38,208,206,0.8) 90%);
+}
+.splash .overlay.gradient-3 {
+  background: -webkit-linear-gradient(90deg, rgba(71,118,230,0.8) 10%, rgba(142,84,233,0.8) 90%); 
+  background:    -moz-linear-gradient(90deg, rgba(71,118,230,0.8) 10%, rgba(142,84,233,0.8) 90%); 
+  background:     -ms-linear-gradient(90deg, rgba(71,118,230,0.8) 10%, rgba(142,84,233,0.8) 90%);
+  background:      -o-linear-gradient(90deg, rgba(71,118,230,0.8) 10%, rgba(142,84,233,0.8) 90%); 
+  background:         linear-gradient(90deg, rgba(71,118,230,0.8) 10%, rgba(142,84,233,0.8) 90%);
+}
+
 .splash .overlay .branding {
 	width:550px;
 	position: absolute;

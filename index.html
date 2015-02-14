@@ -217,7 +217,14 @@ I'm a guy that likes to do it all, I consider myself an awesome visual and inter
 
 			$(document).ready(function getDribbbleShots() {  
 
+				var gradClasses = ['gradient-1','gradient-2','gradient-3'];
+				var randomGradClass = gradClasses[Math.floor(Math.random() * gradClasses.length)];
+				
+				$('.splash .overlay').addClass(randomGradClass);
 
+
+				
+				// random bg image
 				var images = ['splash-background-2.jpg', 'splash-background-sm.jpg', 'splash-background-3.jpg'];
 				$('.splash').css({'background-image': 'url(img/' + images[Math.floor(Math.random() * images.length)] + ')'});
 
