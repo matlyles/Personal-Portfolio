@@ -625,7 +625,7 @@ min-height: 100% !important;
 
 .ip-about {
 	margin: 0 auto 0 auto;
-	padding: 98px 0 20px 0;
+	padding: 88px 0 20px 0;
 	width: 100%;
 	background: #16171c;
 	/*background: rgba(22,23,28,0.7);*/
@@ -797,6 +797,31 @@ ul#tools li span.stars.five {
 	padding: 10px 20px;
 }
 
+h2.find-me {
+	margin-top: 40px;
+}
+div.connections	{
+	text-align: center;
+	margin: 35px 0 25px 0;
+}
+div.connections img {
+	display: inline-block;
+	height:40px;
+	margin-right: 50px;
+}
+div.connections img:last-child {
+	margin-right: 0;
+}
+/*div.connections img.dribbble {
+	height:50px;
+}
+div.connections img.github {
+	height:50px;
+}
+div.connections img.linkedin {
+	height:50px;
+}*/
+
 .design-process {
 margin: 70px 0 20px 0;
 position: relative;
@@ -935,7 +960,7 @@ ul.process-blocks li.ideate .glyph {
 ul.tools {
 	list-style: none;
 	text-align: center;
-	margin: 45px 0;
+	margin: 25px 0;
 	padding: 0;
 }
 ul.tools li {
@@ -1506,13 +1531,13 @@ ul.process-blocks li.ideate .glyph {
 		width: 55%;
 	}
 	ul.tools {
-		margin: 45px 0;
+		margin: 45px 0 20px 0;
 	}
 	ul.tools li {
-		width: 110px;
-		height: 150px;
+		width: 70px;
+	height: 110px;
 		margin-right: 15px;
-		font-size: 18px;
+		font-size: 13px;
 	}
 	.process h3 {
 		font-size: 26px;
